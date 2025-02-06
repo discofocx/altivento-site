@@ -1,0 +1,21 @@
+[[contact]]
+name = "Dirección"
+address = "Salto de Tzararacua 112, Real de Juriquilla, QRO"
+icon = "fa-map-marked-alt"
+[[contact]]
+name = "Email"
+address = """<a href="#!">contacto@altivento.mx</a>"""
+icon = "fa-envelope"
+[[contact]]
+name = "Teléfono"
+address = "+52 (442) 902-8832"
+icon = "fa-mobile-alt"
+[[social]]
+icon = "fa-mastodon"
+url = "#!"
+[[social]]
+icon = "fa-facebook-f"
+url = "#!"
+[[social]]
+icon = "fa-github"
+url = "https://github.com/mattimustang/zola-grayscale"

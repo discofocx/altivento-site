@@ -1,0 +1,9 @@
+[[item]]
+name = "Nosotros"
+path = "#about"
+[[item]]
+name = "Servicios"
+path = "#projects"
+[[item]]
+name = "Contacto"
+path = "#signup"

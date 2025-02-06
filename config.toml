@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://mattimustang.github.io/zola-grayscale/"
+base_url = "https://altivento.mx"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -21,7 +21,7 @@ highlight_theme = "gray-matter-dark"
 
 [extra]
 # enable a debug pop out panel to display template context
-debug = false
+debug = true
 
 # google analytics id
 #google_analytics_tag = "XXXXXX"
